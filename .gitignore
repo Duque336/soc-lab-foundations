@@ -1,0 +1,19 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python junk (if you ever add scripts)
+__pycache__/
+*.pyc
+
+# Large binary captures (commit only if small & intentional)
+*.pcap
+*.pcapng
+
+# Screenshots can be committed; keep if you want evidence
+# If you prefer not to commit images, uncomment:
+# *.png
+# *.jpg
+# *.jpeg
